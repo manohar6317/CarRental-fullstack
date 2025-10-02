@@ -1,3 +1,13 @@
+# Demo Repository
+
+⚠️ **Note:**  
+This repository is for **demo purposes only**.  
+No actual commits or code changes are maintained here.  
+
+The actual development work (commits, code changes, and history) is maintained in a **private repository**.
+
+
+
 # Car Rental Fullstack Application
 
 A fullstack car rental platform where users can browse, book, and manage cars, and owners can list and manage their vehicles.
